@@ -108,6 +108,8 @@ footer {
 }
 
 footer p {
+    font-size: 18px;
+    color:  #fab11c;
     margin: 0;
     padding: 50px 0;
 }
