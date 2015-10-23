@@ -30,10 +30,10 @@ p {
     line-height: 1.6;
     color: rgba(0, 0, 0, 1);
 }
-
+     
 hr {
     max-width: 400px;
-    border-color: #999999;
+    border-color: rgba(153, 153, 153, 1);
 }
 
 .brand,
