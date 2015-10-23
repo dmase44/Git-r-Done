@@ -1,6 +1,6 @@
 # Intro To Git - A Learnable Course
 
-This is my project repository for the Introudction to Git course I'm taking on SitePoint Learnable.
+This is my project repository for the Introduction to Git course I'm taking on SitePoint Learnable.
 
 ## Getting Started
 
