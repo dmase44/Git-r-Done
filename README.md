@@ -2,11 +2,11 @@
 
 This is my project repository for the Introduction to Git course I'm taking on SitePoint Learnable.
 
-## Getting Started
+## Getting Started With Git
 
-My first commit  of the course.
+My first commit of the course.
 
-## Bugs and Issues
+## Changes and Issues
 
 ## Creator
 Dave Mason 10-20-15
