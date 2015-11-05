@@ -10,5 +10,7 @@ My first commit of the course.
 
 Nov. 5, 2015 : Made sitewide changes to brand-name, address-bar, navbar-brand, intro-text and footer copyright.
 
+Nov. 5, 2015 : Changed brand and footer color.
+
 ## Creator
 Dave Mason 10-20-15
