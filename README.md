@@ -12,5 +12,7 @@ Nov. 5, 2015 : Made sitewide changes to brand-name, address-bar, navbar-brand, i
 
 Nov. 5, 2015 : Changed brand and footer color.
 
+Nov. 5, 2015 : Added favicon
+
 ## Creator
 Dave Mason 10-20-15
