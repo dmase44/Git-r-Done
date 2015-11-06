@@ -14,5 +14,7 @@ Nov. 5, 2015 : Changed brand and footer color.
 
 Nov. 5, 2015 : Added favicon
 
+Nov. 5, 2015: Added faq section and team photos to about.html
+
 ## Creator
 Dave Mason 10-20-15
