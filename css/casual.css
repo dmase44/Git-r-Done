@@ -105,11 +105,11 @@ hr {
 	cursor: pointer;
 }
 .ac-container label:hover{
-	background:  rgba(208, 205, 205, .5);
+	background: linear-gradient(to top, #e6e6e6, #bdbdbd);
 }
 .ac-container input:checked + label,
 .ac-container input:checked + label:hover{
-	background: rgba(208, 205, 205, .7);
+	background: linear-gradient(to bottom, #e6e6e6, #bdbdbd);
 	text-shadow: 1px 1px 1px rgba(51, 51, 51, .1);
 }
 .ac-container label:after,
