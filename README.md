@@ -16,7 +16,7 @@ Nov. 5, 2015 : Added favicon
 
 Nov. 5, 2015: Added faq section and team photos to about.html
 
-Nov, 8, 2015: Modified formating of readme.md
+Nov, 9, 2015: Modified formating of readme.md
 
 ## Creator
 Dave Mason 10-20-15
