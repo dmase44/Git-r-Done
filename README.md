@@ -1,6 +1,6 @@
 # Intro To Git - A Learnable Course
 
-This is my Git-r-Done project repository for the [Introduction to Git]( https://www.sitepoint.com/premium/courses/introduction-to-git-2902) course I'm taking from Learnable at  SitePoint.
+This is my _Git-r-Done_ project repository for the [Introduction to Git]( https://www.sitepoint.com/premium/courses/introduction-to-git-2902) course I'm taking from Learnable at SitePoint.
 
 I finished this course. It has been a great learning experience and gave a good foothold to using Git and GitHub in my daily work flow.
 
