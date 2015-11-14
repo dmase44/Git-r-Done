@@ -2,9 +2,9 @@
 
 This is my Git-r-Done project repository for the [Introduction to Git]( https://www.sitepoint.com/premium/courses/introduction-to-git-2902) course I'm taking from Learnable at  SitePoint.
 
-I finished this course and it has been a great learning experience. The instructions were easy to follow, start to finish.
+I finished this course. It has been a great learning experience and gave a good foothold to using Git and GitHub in my daily work flow.
 
-## Getting Started With Git 
+## Getting Started With Git
 
 If you don't have a clue how Git and GitHub can work for you, this course will get you going on the path to setting up a great work flow. It's far easier than one would think.
 
