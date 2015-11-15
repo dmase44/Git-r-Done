@@ -8,7 +8,7 @@ I finished this course. It has been a great learning experience and gave a good 
 
 If you don't have a clue how Git and GitHub can work for you, this course will get you going on the path to setting up a great work flow. It's far easier than one would think.
 
-### Changes I have made to improve my work flow
+## Changes I have made to improve my work flow
 
 I have been working with web technologies since 1997. Keeping track of all the site changes and having back up folders 20 + deep for all of numerous projects has been a daunting experience to say the least.
 
