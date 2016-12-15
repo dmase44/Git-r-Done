@@ -5,3 +5,4 @@
 #### 11-11-15: Revised readme.md.
 #### 11-14-15: Created changelog.md.
 #### 09-13-16: Minimized the casual css file.
+#### 12-15-16: Updated the copyright and contact info.
