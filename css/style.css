@@ -6,14 +6,11 @@
 
 body {
 	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	background: url('../img/bg.jpg') no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
+	background: url('../img/barnWood3.jpg') no-repeat center center fixed;
 	background-size: cover;
 }
 h1, h2, h3, h4, h5, h6 {
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-weight: 700;
 	letter-spacing: 1px;
@@ -31,12 +28,12 @@ hr {
 	display: none;
 }
 .navbar-brand {
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	font-weight: 900;
 	letter-spacing: 2px;
 }
 .navbar-nav {
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	font-weight: 400;
 	letter-spacing: 3px;
 }
@@ -65,7 +62,7 @@ hr {
 	background: rgba(255, 255, 255, 0.9);
 }
 .intro-text {
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	font-size: 1.25em;
 	font-weight: 400;
 	letter-spacing: 1px;
@@ -105,10 +102,12 @@ hr {
 	cursor: pointer;
 }
 .ac-container label:hover{
+	background: -webkit-gradient(linear, left bottom, left top, from(#e6e6e6), to(#bdbdbd));
 	background: linear-gradient(to top, #e6e6e6, #bdbdbd);
 }
 .ac-container input:checked + label,
 .ac-container input:checked + label:hover{
+	background: -webkit-gradient(linear, left top, left bottom, from(#e6e6e6), to(#bdbdbd));
 	background: linear-gradient(to bottom, #e6e6e6, #bdbdbd);
 	text-shadow: 1px 1px 1px rgba(51, 51, 51, .1);
 }
@@ -136,10 +135,10 @@ hr {
 	position: relative;
 	z-index: 10;
 	-webkit-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
-	-moz-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
-	-o-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
-	-ms-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+	-webkit-transition: height 0.3s ease-in-out, -webkit-box-shadow 0.6s linear;
+	transition: height 0.3s ease-in-out, -webkit-box-shadow 0.6s linear;
 	transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+	transition: height 0.3s ease-in-out, box-shadow 0.6s linear, -webkit-box-shadow 0.6s linear;
 }
 .ac-container article p{
 	line-height: 1.2em;
@@ -151,10 +150,10 @@ hr {
 }
 .ac-container input:checked ~ article{
 	-webkit-transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
-	-moz-transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
-	-o-transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
-	-ms-transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
+	-webkit-transition: height 0.5s ease-in-out, -webkit-box-shadow 0.1s linear;
+	transition: height 0.5s ease-in-out, -webkit-box-shadow 0.1s linear;
 	transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
+	transition: height 0.5s ease-in-out, box-shadow 0.1s linear, -webkit-box-shadow 0.1s linear;
 	border-top: 1px dotted rgba(47, 26, 4, .6);
 }
 .ac-container input:checked ~ article.ac-small{
@@ -169,11 +168,13 @@ hr {
 footer {
 	background: rgba(255, 255, 255, 1);
 	background: rgba(255, 255, 255, 0.9);
+	margin-bottom: 15px;
 }
 footer p {
+	font-size: 1.2em;
 	color: #c9972a;
 	margin: 0;
-	padding: 20px 0;
+	padding: 15px 0;
 }
 @media screen and (min-width:768px) {
 	.brand {
@@ -201,7 +202,7 @@ footer p {
 		padding: 0 0 40px;
 		text-align: center;
 		text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
-		text-transform: uppercase;
+		/* text-transform: uppercase; */
 		font-size: 1.25em;
 		font-weight: 400;
 		letter-spacing: 3px;
@@ -222,7 +223,7 @@ footer p {
 		background: rgba(255, 255, 255, 0.9);
 	}
 	.nav>li>a {
-		padding: 25px;
+		padding: 15px;
 	}
 	.navbar-nav>li>a {
 		line-height: normal;
